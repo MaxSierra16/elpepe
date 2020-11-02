@@ -46,7 +46,7 @@ class Boilerplate {
   }
 
   static async featureBranch() {
-    const branch = "master";
+    const branch = "main";
     try {
       console.log(cyan("creatiing feature branch 🚀"));
       await exec(`git checkout ${branch}`);
