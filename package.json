@@ -1,0 +1,20 @@
+{
+  "name": "elpepe",
+  "version": "0.0.2",
+  "main": "index.js",
+  "bin": {
+    "elpepe": "index.js"
+  },
+  "scripts": {
+    "test": "echo no test yet"
+  },
+  "keywords": [],
+  "author": "Max Sierra",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "description": "Assistant that automates my repetitive tasks",
+  "devDependencies": {}
+}
